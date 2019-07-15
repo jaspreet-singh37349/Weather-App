@@ -9,4 +9,4 @@ The information of weather is fetched in this app using API from this link: http
 * Parsing data from Json file
 
 # Screenshots
-<img src="App%20Screenshots/Screenshot_20190715-090600.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090605.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090616.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090627.png" width="100">
+<img src="App%20Screenshots/icon.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090600.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090605.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090616.png" width="100">  <img src="App%20Screenshots/Screenshot_20190715-090627.png" width="100">
